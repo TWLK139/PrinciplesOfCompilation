@@ -1,0 +1,3 @@
+﻿  LexicalAnalyzer.cpp
+D:\我的\工大\编译原理\实验\代码\实验一\实验一\lexicalAnalyzer.h(489,23): warning C4018: “<”: 有符号/无符号不匹配
+  实验一.vcxproj -> D:\我的\工大\编译原理\实验\代码\实验一\Debug\实验一.exe
